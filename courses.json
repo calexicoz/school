@@ -1,0 +1,24 @@
+{
+    "Huey": {
+        "words": [],
+        "verbs": []
+    },
+    "Jesse": {
+        "words": [
+            { "l": "liste1", "w": "depuis" },
+            { "l": "liste1", "w": "toujours" },
+            { "l": "liste1", "w": "soeur" },
+            { "l": "liste1", "w": "les yeux" },
+            { "l": "liste1", "w": "un cheval" },
+            { "l": "liste1", "w": "des chevaux" },
+            { "l": "liste1", "w": "un cheveu" },
+            { "l": "liste1", "w": "des cheveux" }
+        ],
+        "verbs": [
+            { "t": "présent", "v": "avoir" },
+            { "t": "présent", "v": "être" },
+            { "t": "présent", "v": "sauter" },
+            { "t": "présent", "v": "grandir" }
+        ]
+    }
+}
